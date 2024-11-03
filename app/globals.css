@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.readex-300 {
+    font-family: var(--font-readex);
+    font-weight: 400;
+}
+.readex-400 {
+    font-family: var(--font-readex);
+    font-weight: 400;
+}
+.readex-500 {
+    font-family: var(--font-readex);
+    font-weight: 500;
+}
+.readex-700 {
+    font-family: var(--font-readex);
+    font-weight: 700;
+}
+.source-500 {
+    font-family: var(--font-source);
+    font-weight: 500;
+}
+.source-600 {
+    font-family: var(--font-source);
+    font-weight: 600;
+}
+.source-700 {
+    font-family: var(--font-source);
+    font-weight: 700;
+}
+.source-800 {
+    font-family: var(--font-source);
+    font-weight: 800;
+}
